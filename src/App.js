@@ -13,7 +13,7 @@ const App = () => {
 
   return (
     <div>
-      <BrowserRouter basename={process.env.PUBLIC_URL} >
+      <BrowserRouter  >
 
         <Navbar />
         <LoadingBar
