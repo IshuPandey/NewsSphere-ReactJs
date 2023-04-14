@@ -13,7 +13,7 @@ const App = () => {
 
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename='/newssphere'>
 
         <Navbar />
         <LoadingBar
