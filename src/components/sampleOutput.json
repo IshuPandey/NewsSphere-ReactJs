@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Seymour Stein dies: Music exec who signed Madonna, Talking Heads and more",
+      "description": "Seymour Stein was regarded as one of the most legendary talent spotters in the music business.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-65160979",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17B15/production/_129254079_stein2_gettyimages-105440239.jpg",
+      "publishedAt": "2023-04-03T09:37:20.2151733Z",
+      "content": "Seymour Stein, the legendary New York music executive who signed Madonna, Talking Heads, The Ramones and many more, has died at the age of 80.\r\nStein set up record label Sire in 1966 and became a key… [+4702 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Vladlen Tatarsky: Woman detained over killing of pro-Kremlin blogger",
+      "description": "A 26-year-old woman is held after Vladlen Tatarsky died in an explosion at a St Petersburg cafe.",
+      "url": "http://www.bbc.co.uk/news/world-europe-65161095",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1211/production/_129252640_annotation2023-04-02235534.png",
+      "publishedAt": "2023-04-03T08:37:16.6848936Z",
+      "content": "Russian investigators have detained a woman in the hunt for the killing of a pro-war blogger Vladlen Tatarsky in a blast at a St Petersburg cafe.\r\nDarya Trepova, 26, was earlier placed on the interio… [+3703 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "The other Chinese apps taking the US and UK by storm",
+      "description": "Four out of the top 10 most downloaded free mobile apps in the US and UK are Chinese-owned.",
+      "url": "http://www.bbc.co.uk/news/technology-65072407",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8F2C/production/_129225663_tiktok_getty976.jpg",
+      "publishedAt": "2023-04-03T06:37:18.8721049Z",
+      "content": "TikTok, the most popular free app in the US, has in recent days been making headlines not for its content but for alleged links to the Chinese Communist Party.\r\nIts boss, Shou Zi Chew, appeared befor… [+4464 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Rahul Gandhi: India's Congress leader to appeal jail sentence in defamation case",
+      "description": "The Indian opposition leader was sentenced to two years in jail for his comments about PM Modi's name.",
+      "url": "http://www.bbc.co.uk/news/world-asia-india-65160217",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18407/production/_129253399_gettyimages-1249427513.jpg",
+      "publishedAt": "2023-04-03T06:22:15.4507097Z",
+      "content": "Indian opposition leader Rahul Gandhi is set to appeal on Monday against his conviction and jail sentence in a criminal defamation case.\r\nHe was sentenced to two years in jail by a court in Gujarat s… [+3067 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Bakhmut: Wagner raises Russian flag but Ukraine fights on",
+      "description": "The stunt was dismissed by Ukraine, which said its army still holds the embattled eastern city.",
+      "url": "http://www.bbc.co.uk/news/world-europe-65158796",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/37FF/production/_129253341_336799260_1456580401778010_1632314504646678620_n.jpg",
+      "publishedAt": "2023-04-03T06:07:18.2466203Z",
+      "content": "The head of Russia's Wagner mercenary group says he has raised a Russian flag over Bakhmut's city hall in Ukraine. \r\nIn a night-time video, Yevgeny Prigozhin said Bakhmut was now Russian \"in a legal … [+1721 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Afghanistan: Rounded up from the streets into Taliban drug rehab",
+      "description": "Afghanistan's government is running an aggressive campaign to remove drug users from the streets.",
+      "url": "http://www.bbc.co.uk/news/world-asia-65138423",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/717D/production/_129235092_addict.jpg",
+      "publishedAt": "2023-04-03T01:07:16.1849359Z",
+      "content": "\"I was under the bridge trying to get some drugs when I felt a hand grab me from behind. It was the Taliban. They had come to take us away.\"\r\nMohamed Omar recalls the moment Taliban soldiers showed u… [+4979 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Paris votes to ban rental e-scooters",
+      "description": "Almost 90% of votes cast favour banning the scooters in a city that pioneered them.",
+      "url": "http://www.bbc.co.uk/news/world-europe-65154854",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6B21/production/_129252472_gettyimages-1043739762.jpg",
+      "publishedAt": "2023-04-02T21:37:17.5274939Z",
+      "content": "People in Paris have voted to ban rental electric scooters in their city, dealing a blow to scooter operators and a triumph for road safety campaigners.\r\nAlmost 90% of votes cast on Sunday favoured a… [+2211 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Sanna Marin neck and neck with conservatives in early Finland voting",
+      "description": "The PM's social democrats are almost level with the opposition conservatives in Finland's election.",
+      "url": "http://www.bbc.co.uk/news/world-europe-65157357",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DD27/production/_129251665_d99de40bd6ea0ab433abaca4921e7c274c9785540_113_5600_31521000x563.jpg",
+      "publishedAt": "2023-04-02T18:52:18.842771Z",
+      "content": "Finnish Prime Minister Sanna Marin's centre left are almost level with the opposition conservatives in early results in Sunday's general election.\r\nHer Social Democrats were on 20.4%, with Petteri Or… [+1024 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Trump 'gearing up for battle' at New York court hearing, lawyer says",
+      "description": "The former president says he will address supporters in Florida after his Tuesday court hearing in New York.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65142623",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B8D3/production/_129251374_gettyimages-1476355137.jpg",
+      "publishedAt": "2023-04-02T17:22:19.6384492Z",
+      "content": "Former US president Donald Trump is \"gearing up for a battle\" ahead of his scheduled court hearing on Tuesday, his lawyer has said.\r\nMr Trump is expected to fly to New York City from his Mar-a-Lago h… [+4197 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Anger and anxiety - inside pro-Trump online networks",
+      "description": "Donald Trump called on his supporters to protest about his indictment - so how are they responding?",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65136641",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18699/production/_129239999_maga_976.jpg",
+      "publishedAt": "2023-04-02T16:07:20.1525362Z",
+      "content": "Two weeks ago, Donald Trump called on his supporters to protest against his expected indictment. Now it's happened, how are they responding?\r\nThe news of Trump's criminal charges spread like wildfire… [+5140 chars]"
+    }
+  ]
+}
