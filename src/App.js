@@ -3,7 +3,7 @@ import './App.css';
 import React, { useState } from 'react'
 import Navbar from './components/Navbar';
 import News from './components/News';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import LoadingBar from 'react-top-loading-bar'
 
 const App = () => {
@@ -13,7 +13,7 @@ const App = () => {
 
   return (
     <div>
-      <BrowserRouter basename={process.env.PUBLIC_URL}  >
+      <HashRouter  >
 
         <Navbar />
         <LoadingBar
@@ -37,7 +37,7 @@ const App = () => {
 
 
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   )
 }
